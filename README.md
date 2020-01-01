@@ -2,10 +2,15 @@
 This repository is for progress of 60 days
 
 D1: started with lesson 3 with a fresh start and motivated ( update- 27th december)
+
 D2: Continued studying and hoping to complete lesson by tomorrow. I am so overwhelmed working so hard it brought my enthusiasm back.(Update for 28th december)
+
 D3 :  nearly completion of lesson 3 -29th december
+
 D4:Completed lesson 3 today. I am so  happy today.(Update for 30th December).    
+
 D5: Started with lesson 5 Introduction to Pytorch. I am so happy that I am working everyday. Started writing blog today and I posted on medium  it out now. I want to work harder on my skills such as coding, ml , dl and other skills too and try to get in phase 2 for Intel ai and ai track both. Let's see what happens then only we can work. I am happy that I can give back to community @Grace.Udacity thank you so much for this opportunity :smiley: (Update for 31st December)
 Happy New year in advance
+
 D6: Continued with lesson 5 and started working with intel ai edge scholarship where I started with lesson 2. At last I am feeling good btw as I started working on lesson 2. Revised python concepts too and tomorrow onwards (Update for 1st January)  
 
