@@ -14,3 +14,4 @@ Happy New year in advance
 
 D6: Continued with lesson 5 and started working with intel ai edge scholarship where I started with lesson 2. At last I am feeling good btw as I started working on lesson 2. Revised python concepts too and tomorrow onwards (Update for 1st January)  
 
+D7: Continued with intel ai and continued with pytorch.(Update for 3rd January)
