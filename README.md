@@ -19,5 +19,6 @@ D7: Continued with intel ai and continued with pytorch.(Update for 3rd January)
 D8: Continued with lesson 5 . Some errors I am getting but trying my best to keep going.( Update for 4th January)
 
 D9: Not much progress. Continued with lesson 5 and read lot of blogs regarding pytorch and how to install pytorch for gpu and read some blogs(Update 5th January)
+
 D10: Started with 100 days of code. Main language is Python for coding . Continued with lesson 5.(Update for 6th january)
 
