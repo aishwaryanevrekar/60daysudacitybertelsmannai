@@ -22,3 +22,5 @@ D9: Not much progress. Continued with lesson 5 and read lot of blogs regarding p
 
 D10: Started with 100 days of code. Main language is Python for coding . Continued with lesson 5.(Update for 6th january)
 
+D11: Worked on final year project code , technical paper work and coded few problems. But tomorrow onwards I have to work hard.(7th January)
+
