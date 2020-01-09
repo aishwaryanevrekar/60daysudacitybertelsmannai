@@ -25,3 +25,4 @@ D10: Started with 100 days of code. Main language is Python for coding . Continu
 D11: Worked on final year project code , technical paper work and coded few problems. But tomorrow onwards I have to work hard.(7th January)
 
 D12 : Continued with coding concepts. Started with python concepts and working on technical paper presentation.(January 8th)
+D13 : Contiuned working on side projects. Read some blogs. Checked some concepts
