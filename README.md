@@ -27,3 +27,5 @@ D11: Worked on final year project code , technical paper work and coded few prob
 D12 : Continued with coding concepts. Started with python concepts and working on technical paper presentation.(January 8th)
 
 D13 : Contiuned working on side projects. Read some blogs. Checked some concepts
+
+D14 : Continued with lesson 5
