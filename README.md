@@ -29,3 +29,5 @@ D12 : Continued with coding concepts. Started with python concepts and working o
 D13 : Contiuned working on side projects. Read some blogs. Checked some concepts
 
 D14 : Continued with lesson 5
+
+D15 : Read few technical papers and coded sometime. ( January 11th)
