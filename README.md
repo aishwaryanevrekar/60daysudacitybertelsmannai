@@ -34,4 +34,4 @@ D15 : Read few technical papers and coded sometime. ( January 11th)
 
 D16:
 
-D17:
+D17:Worked on my project and completed my technical paper presentation. By tomorrow I'll be get back on track.( 13th January)
