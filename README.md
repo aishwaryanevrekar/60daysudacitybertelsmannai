@@ -38,5 +38,5 @@ D17:Worked on my project and completed my technical paper presentation. By tomor
 
 D18:Revised python concepts and checked lesson 5 udacity. I started with datacamp today and #100daysofcode started today. I am going to encourage
 
-D19:
+D19:Completed course of int with python from datacamp in that list, numpy and built in functions I had practiced today. Day 2 #100daysofcode. (15th January)
 
