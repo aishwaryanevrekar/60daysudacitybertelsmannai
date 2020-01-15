@@ -35,3 +35,8 @@ D15 : Read few technical papers and coded sometime. ( January 11th)
 D16:Continued to code with project and read a few blogs. Interacted with people. Greatful to be in this community with you all.( Update for 12th January) 
 
 D17:Worked on my project and completed my technical paper presentation. By tomorrow I'll be get back on track.( 13th January)
+
+D18:Revised python concepts and checked lesson 5 udacity. I started with datacamp today and #100daysofcode started today. I am going to encourage
+
+D19:
+
