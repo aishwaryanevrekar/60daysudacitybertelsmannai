@@ -40,3 +40,6 @@ D18:Revised python concepts and checked lesson 5 udacity. I started with datacam
 
 D19:Completed course of int with python from datacamp in that list, numpy and built in functions I had practiced today. Day 2 #100daysofcode. (15th January)
 
+D20 : Completed revision of matplotlib and how it works and how to use in python.Worked nearly for an hour.(16TH January)
+
+
