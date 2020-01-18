@@ -44,5 +44,5 @@ D20 : Completed revision of matplotlib and how it works and how to use in python
 
 D21: Started with pandas and started with coursera openvivo course. Read blogs about pytorch . Practiced day 4 100daysofcode (17th January)
 
-D22 : Completed Lesson 5 . Continued with 100daysofcode day 5 .I am excited that I am coding and working also
+D22 : Completed Lesson 5 . Continued with 100daysofcode day 5 .I am excited that I am coding and working also on scholarships. Very happy
 
