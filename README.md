@@ -46,3 +46,4 @@ D21: Started with pandas and started with coursera openvivo course. Read blogs a
 
 D22 : Completed Lesson 5 . Continued with 100daysofcode day 5 .I am excited that I am coding and working also on scholarships. Very happy
 
+D23 : Started with lesson 6 .Doing python from coding ninjas
