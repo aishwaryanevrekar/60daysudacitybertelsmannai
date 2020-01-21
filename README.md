@@ -49,3 +49,5 @@ D22 : Completed Lesson 5 . Continued with 100daysofcode day 5 .I am excited that
 D23 : Started with lesson 6 .Doing python from coding ninjas
 
 D24: Continued with project work .Focusing on review and presentation. Read some blogs related to the track
+
+D25: Completed with presentation .Read some blogs and now doing python coding. 21st January
