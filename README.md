@@ -53,3 +53,6 @@ D24: Continued with project work .Focusing on review and presentation. Read some
 D25: Completed with presentation .Read some blogs and now doing python coding. 21st January
 
 D26: Continued with lesson 6 and doing python concepts and revision
+
+
+D27: Didn't get much time today. Read few blogs and worked on basic projects
