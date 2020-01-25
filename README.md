@@ -58,3 +58,5 @@ D26: Continued with lesson 6 and doing python concepts and revision
 D27: Didn't get much time today. Read few blogs and worked on basic projects
 
 D28: Didn't get much time today. Read few blogs and worked on datacamp . Took some time off for relaxing watched movie  and I am telling you all if you get stressed first pamper yourself and then try for something else
+
+D29: Revised major concepts in python and got certificate of completion and read blogs and continued with lesson 6 ai track.
