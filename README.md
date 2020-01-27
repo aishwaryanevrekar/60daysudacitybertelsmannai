@@ -62,3 +62,5 @@ D28: Didn't get much time today. Read few blogs and worked on datacamp . Took so
 D29: Revised major concepts in python and got certificate of completion and read blogs and continued with lesson 6 ai track.
 
 D30 : Praticed python programming and continued with lesson 6 . (26th January)
+
+D31 : Continued to code and work on project and continued with blogs and lesson 6
