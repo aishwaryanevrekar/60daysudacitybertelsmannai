@@ -63,4 +63,6 @@ D29: Revised major concepts in python and got certificate of completion and read
 
 D30 : Praticed python programming and continued with lesson 6 . (26th January)
 
-D31 : Continued to code and work on project and continued with blogs and lesson 6
+D31 : Continued to code and work on project and continued with blogs and lesson 6 (27TH JANURARY )
+
+D32 : Worked with python lambda concepts and now read few blogs and worked on my project. (28th january)
