@@ -66,3 +66,7 @@ D30 : Praticed python programming and continued with lesson 6 . (26th January)
 D31 : Continued to code and work on project and continued with blogs and lesson 6 (27TH JANURARY )
 
 D32 : Worked with python lambda concepts and now read few blogs and worked on my project. (28th january)
+
+D33 : REVISED MORE CONCEPTS OF MACHINE LEARNING. (29th january)
+
+D34 : How python concepts and read blogs and worked on project . (30th january)
