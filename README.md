@@ -76,3 +76,5 @@ D35 : Coded few questions on hackerrank . (31th january)
 D36 : Worked on CNN Project and read a few blogd . (1st feb)
 
 D37 : Worked on CNN Project and read a few blogs and revised concepts of lesson 3  . (2st feb)
+
+D38 : Completed lesson 6 of ai track . (3rd feb)
