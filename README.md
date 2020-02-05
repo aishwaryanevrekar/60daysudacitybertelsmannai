@@ -78,3 +78,5 @@ D36 : Worked on CNN Project and read a few blogd . (1st feb)
 D37 : Worked on CNN Project and read a few blogs and revised concepts of lesson 3  . (2st feb)
 
 D38 : Completed lesson 6 of ai track . (3rd feb)
+
+D39 : Started with 7th lesson. (5th feb)
