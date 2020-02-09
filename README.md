@@ -84,3 +84,7 @@ D39 : Started with 7th lesson. (5th feb)
 D40: Conntinued with lesson 7 (6th feb)
 
 D41: Continued with lesson 7 and completed half. (7th feb)
+
+D42: Completed 7th lesson(8thfeb)
+
+D43: Started with 8th lesson(9 th feb)
