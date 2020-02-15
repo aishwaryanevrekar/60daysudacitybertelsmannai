@@ -92,3 +92,12 @@ D43: Started with 8th lesson(9 th feb)
 D44 : Continued with 8th lesson ( 10th feb)
 
 D45: Continued with 8th lesson (11th feb)
+
+D46 : Completed lesson 8 . (12TH FEB)
+
+D47 : Practicsed basic SQL and worked on CNN algorithm. (13TH FEB)
+
+D48:  Continued with udacity and read blogs (14TH FEB)
+
+D49 : Practised SQL queries and coded few deep learning algorithms and continued with udacity. (15th feb)
+
