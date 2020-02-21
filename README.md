@@ -101,3 +101,17 @@ D48:  Continued with udacity and read blogs (14TH FEB)
 
 D49 : Practised SQL queries and coded few deep learning algorithms and continued with udacity. (15th feb)
 
+D50: Continued with 8th lesson
+
+D51 : Revised concepts of earlier lesson
+
+D52 : Continued with 8th lesson and did some coding 
+
+D53 : Completed 8th lesson
+
+D54 : started with 9th lesson
+
+D55 : Revised concepts and worked on project.
+
+
+
