@@ -101,17 +101,31 @@ D48:  Continued with udacity and read blogs (14TH FEB)
 
 D49 : Practised SQL queries and coded few deep learning algorithms and continued with udacity. (15th feb)
 
-D50: Continued with 8th lesson
+D50: Continued with 8th lesson( 16th)
 
-D51 : Revised concepts of earlier lesson
+D51 : Revised concepts of earlier lesson(17th )
 
-D52 : Continued with 8th lesson and did some coding 
+D52 : Continued with 8th lesson and did some coding (18th)
 
-D53 : Completed 8th lesson
+D53 : Completed 8th lesson (19th)
 
-D54 : started with 9th lesson
+D54 : started with 9th lesson (20th feb)
 
-D55 : Revised concepts and worked on project.
+D55 : Revised concepts and worked on project. (21st feb)
+
+D56 : Started with 9th lesson (22nd feb)
+
+D57 : Continued with 9th lesson (23rd feb)
+
+D58 : Completed 9th lesson (24th feb)
+
+D59 : Completed udacity course (25th feb)
+
+D60: Continued on side project. (26th feb)
+
+D61: Worked on my final year project and working on training of dataset using cnn(27)
+
+D62 : Continued with revision of cnn and started writing paper 
 
 
 
